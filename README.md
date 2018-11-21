@@ -14,3 +14,6 @@ Arbitrage strategy
 
 * Geo Strategy:
   * Execute trades as close as possible to exchanges (i.e. ping time response)
+  
+* Centralized versus Dencentralized Exchange
+  * For a possibly faster way to quickly see the crypto price differences amongst exchange (centralized and decentralized) CoinMarketCap shows the token price difference among all of the token's markets.  API to explore and test: https://pro.coinmarketcap.com/api/v1
